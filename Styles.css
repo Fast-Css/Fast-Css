@@ -2,3 +2,26 @@
     border: 3px;
 }
 
+.bordertop3px {
+    border-top: 3px;
+}
+
+.borderbottom3px {
+    border-bottom: 3px;
+}
+
+.borderleft3px {
+    border-left: 3px;
+}
+
+.borderright3px {
+    border-right: 3px;
+}
+
+
+
+
+
+
+
+
