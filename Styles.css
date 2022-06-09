@@ -1,21 +1,21 @@
-.border3px {
-    border: 3px;
+.border1px {
+    border: 1px;
 }
 
-.bordertop3px {
-    border-top: 3px;
+.border-top1px {
+    border-top: 1px;
 }
 
-.borderbottom3px {
-    border-bottom: 3px;
+.border-bottom1px {
+    border-bottom: 1px;
 }
 
-.borderleft3px {
-    border-left: 3px;
+.border-left1px {
+    border-left: 1px;
 }
 
-.borderright3px {
-    border-right: 3px;
+.border-right1px {
+    border-right: 1px;
 }
 
 
