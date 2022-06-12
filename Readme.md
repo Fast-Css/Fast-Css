@@ -6,5 +6,5 @@ for example to put a border of 3px give it the class "border3px" And Done!
 <br>
 We're A open source framework!
 
-# Change Log
-Added a navbar
+# Change Log  <br>
+Added a easy navbar!
